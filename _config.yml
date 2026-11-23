@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Frosty Ramblings
 description: Just a thought...
 show_excerpts: true
